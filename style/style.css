@@ -33,3 +33,15 @@ header i {
     background-size: 100%;
     height: 800px;
 }
+.form-section {
+   background-color: rgb(80, 80, 180);
+    background-size: 100%;
+    height: 500px;
+}
+.form-control {
+    background-color: rgb(80, 80, 180);
+}
+input::placeholder {
+   color: white !important;
+    font-weight: bold;
+}
