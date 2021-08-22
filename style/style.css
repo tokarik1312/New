@@ -2,7 +2,6 @@ header i {
     font-size: 50px;
     color: blueviolet; 
 }
-
 .icons-background {
     width: 100px;
     height: 100px;
@@ -44,4 +43,22 @@ header i {
 input::placeholder {
    color: white !important;
     font-weight: bold;
+}
+footer img {
+    width: 100px;
+    height: 100px;
+}
+footer input::placeholder {
+    font-weight: inherit;
+    color: rgb(206, 195, 195) !important;
+    padding-left: 20px;
+ }
+footer .form-control {
+    background-color:initial;
+}
+footer i {
+    font-size: 30px;
+}
+footer {
+    background-image: url('../images/abstract.jpg');
 }
