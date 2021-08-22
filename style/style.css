@@ -20,3 +20,10 @@ header i {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.testimonials {
+    background-image: url('../images/unnamed.jpg');
+}
+.logos img {
+    width: 200px;
+    height: 200px;
+}
