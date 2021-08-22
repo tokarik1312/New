@@ -2,3 +2,21 @@ header i {
     font-size: 50px;
     color: blueviolet; 
 }
+
+.icons-background {
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons-background {
+    font-size: 50px;
+}
+.one {
+    background-image: url('../images/depositphotos_14442485-stock-photo-cloudy-blue-sky-and-wood.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
